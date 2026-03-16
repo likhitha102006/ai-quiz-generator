@@ -1,0 +1,9 @@
+requirment (the libraries i have used for my application)
+            pip install pkg-resources
+            pip install -u google-generativeai pyPDF2
+            pip install streamlit run app.py
+            pip install streamlit
+            pip install spacy
+            pip install transformer
+            pip install torch
+            pip install nltk
